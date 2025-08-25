@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ötüken Baskı Ürünleri</title>
+</head>
+<body>
+    <h1>Merhaba, Ötüken Baskı Ürünleri!</h1>
+    <p>Bu site GitHub Pages üzerinde Android’den yüklendi.</p>
+</body>
+</html>
